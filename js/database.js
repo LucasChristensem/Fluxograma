@@ -7,7 +7,7 @@ window.colors = ["#b1fca4", "#fac6ff", "#a8c9ff"];
 
 // Order of courses matters: do not swap positions. Append at the end.
 window.courses = [
-    { name: "Algoritmos e Programação", credits: 5, code: "COS110", semester: 1},
+    { name: "AlgProg", credits: 5, code: "COS110", semester: 1},
     { name: "Int. a Eng. Comp. e Informação", credits: 2, code: "COS111", semester: 1},
     { name: "Circuitos Lógicos", credits: 5, code: "EEL280", semester: 1},
     { name: "Cálculo I", credits: 6, code: "MAC118", semester: 1},
