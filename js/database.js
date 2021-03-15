@@ -59,4 +59,4 @@ window.courses = [
     { name: "	Fisioterapia na Saúde do Idoso", credits: 2, code: "FMK592", semester: 10},
     { name: "Fisio Atenção Primária à Saúde", credits: 3, code: "FMK593", semester: 10},
     { name: "Estágio Supervisionado IV - F", credits: 4, code: "FMKU18", semester: 10},
-
+]
